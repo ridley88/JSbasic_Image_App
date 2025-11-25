@@ -1,4 +1,5 @@
-const accessKey = "pnrPbYKMwI9pDHCYlOt2DbUpVxR6Dn-_kM0cSVTdvY8";
+// Add your Access Key in the quotations in the line below
+const accessKey = "";
 
 const formEl = document.querySelector("form");
 const inputEl = document.getElementById("search-input");
